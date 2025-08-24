@@ -3,7 +3,7 @@
 NetPort is a network scanning tool built from scratch in Go to analyze hosts, identify open ports, and determine their associated services and protocols. 
 This project was born out of an interest in understanding the low-level workings of network communications and the foundations of cybersecurity.
 
-### What does NetProbe do? 🧐
+### What does NetPort do? 🧐
 
 This scanner allows you to get a quick overview of a host's "attack surface" by answering questions like:
 
