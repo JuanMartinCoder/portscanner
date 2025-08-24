@@ -13,7 +13,7 @@ This scanner allows you to get a quick overview of a host's "attack surface" by 
 ### Implemented Features ✨
 
 * **Open Port Detection:** Uses TCP Connections to check the status of ports within a specified range.
-* **Protocol/Service Mapping:** Integrates an internal database based on IANA standards to correlate each open port with its most likely service.
+* **Protocol/Service Mapping:** Integrates an internal csv to correlate each open port with its most likely service.
 * **Clean Output:** Displays the results in a clear and organized format in the terminal.
 * **MultiThreading:** Uses Go routines for scanning faster.
 
